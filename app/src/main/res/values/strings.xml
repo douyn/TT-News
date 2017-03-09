@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TT News</string>
+    <string name="daynight_mode">日/夜间模式</string>
+    <string name="about">关于</string>
+    <string name="setting">设置</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="transition_photos">transition_photos</string>
+
+    <string name="photo_collections">图集：%1$s</string>
+</resources>

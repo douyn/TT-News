@@ -1,0 +1,1 @@
+include ':app', ':library:common', ':library:common_dou', ':library:jcvideoplayer', ':library:oneKeyShareSDK', ':library:irecyclerview'
